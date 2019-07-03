@@ -1,0 +1,42 @@
+.title1{
+  display: inline-block;
+}
+button{
+  width: 80px;
+  height: 30px;
+  font-size: 12px;
+  color: #e48f26;
+  background-color: #ffe245;
+}
+input{
+  position: relative;
+  top: 5px;
+  width: 400px;
+  line-height: 26px;
+  margin-bottom: 15px;
+}
+tr,td{
+  font-weight:bold;
+  color:#ff9955;
+  padding-left: 30px;
+  font-size: 30px;
+  line-height: 40px;
+  vertical-align: top;
+  font-align:center;
+}
+#text{
+  vertical-align: top;
+  font-align:center;
+}
+#demotable{
+  position: relative;
+  top:25px;
+}
+a {
+  text-decoration: none;
+  color: #ff9955;
+}
+#addbook{
+line-height: 10px;
+  width: 30px;
+}

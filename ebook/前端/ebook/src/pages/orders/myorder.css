@@ -1,0 +1,42 @@
+.title1{
+  display: inline-block;
+}
+button{
+  font-size: 40px;
+  color: #e48f26;
+  background-color: #ffe245;
+}
+input{
+  position: relative;
+  top: 5px;
+  width: 500px;
+  line-height: 26px;
+}
+tr,td{
+  font-weight:bold;
+  color:#ff9955;
+  padding-left: 30px;
+  font-size: 30px;
+  line-height: 40px;
+  vertical-align: top;
+  font-align:center;
+}
+#text{
+  vertical-align: top;
+  font-align:center;
+}
+#demotable{
+  position: relative;
+  top:25px;
+}
+a {
+  text-decoration: none;
+  color: #ff9955;
+  font-size:40px
+}
+#detail{
+  position: relative;
+  top: -600px;
+  padding-left: 700px;
+
+}

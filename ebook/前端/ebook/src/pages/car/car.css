@@ -1,0 +1,20 @@
+#title{
+  color: #ff8828;
+  font-size: 40px;
+  padding-top: 40px;
+}
+#photo{
+  position: relative;
+  left: 5%;
+  float: left;
+}
+#more_msg{
+  float: left;
+  position: relative;
+  left:20%;
+  font-size:20px;
+}
+button{
+  font-size: 20px;
+  align:left;
+}

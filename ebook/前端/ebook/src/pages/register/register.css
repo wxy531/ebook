@@ -1,0 +1,45 @@
+#title1{
+  background-color: #fafff8;
+  text-align: center;
+  color: #fdf438;
+  line-height: 40px;
+}
+#form{
+  padding-top: 10px;
+  padding-bottom: 140px;
+  padding-right: 10px;
+  color: #eea45f;
+  background-color: #e8eee3;
+  position: relative;
+  font-size: 40px;
+  text-align: right;
+  line-height: 100px;
+  background-image: url("../../timg.jpg");
+  background-repeat : no-repeat;
+
+}
+.button{
+  border-color: #e4511d;
+  position: relative;
+  right :30px;
+  font-size: 40px;
+  width:300px;
+
+}
+.input{
+  background-color: #f3f1f7;
+  width:400px;
+  border-color: #f5fff5;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 30px;
+  color: rgba(108, 114, 109, 0.6);
+}
+#input2{
+  background-color: #e1dfe5;
+  width:400px;
+  border-color: #f9fdff;
+}
+#photo{
+
+}

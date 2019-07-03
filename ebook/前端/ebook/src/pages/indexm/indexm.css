@@ -1,0 +1,29 @@
+
+#main{
+  line-height: 100px;
+  text-align: center;
+  color: #f0949f;
+}
+#footer{
+  background-color: #ff8828;
+  text-align: center;
+  color: #fbf9ff;
+  line-height: 40px;
+
+}
+
+table,td,th
+{
+  background-color: #fffee2;
+  border:1px solid black;
+  color: #ff7e1f;
+}
+table
+{
+
+  width:100%;
+}
+th
+{
+  height:50px;
+}
